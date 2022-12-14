@@ -1,0 +1,17 @@
+.my-canvas{
+  background-color: lightgray;
+
+}
+
+body {
+  margin: 0;
+  background-color: darkgray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#verticalButtons{
+  display: flex;
+  flex-direction: column;
+}
